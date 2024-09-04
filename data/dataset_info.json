@@ -2,6 +2,9 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "identity_zh": {
+    "file_name": "identity_zh.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
@@ -53,6 +56,9 @@
   "alpaca_gpt4_zh": {
     "hf_hub_url": "llamafactory/alpaca_gpt4_zh",
     "ms_hub_url": "llamafactory/alpaca_gpt4_zh"
+  },
+  "alpaca_gpt4_zh_local": {
+    "file_name": "/root/autodl-tmp/cache/datasets/alpaca-gpt4-data-zh/alpaca_gpt4_data_zh.json"
   },
   "glaive_toolcall_en": {
     "hf_hub_url": "llamafactory/glaive_toolcall_en",
